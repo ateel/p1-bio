@@ -1,5 +1,11 @@
 /* Your Website Styles */
-
+h1 {
+	color: #718AB7;
+	font-family: 'Lobster', cursive;
+}
+body	{
+	background: url(../img/bg.png);
+}
 
 /* Show Grid */
 .showgrid {
