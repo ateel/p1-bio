@@ -1,11 +1,16 @@
 /* Your Website Styles */
 h1 {
+font-size: 2em;
+margin: 0.67em 5.3em;
+}
+
+
+
+img	{
+	width:100%;
 
 }
 
-body	{
-	background: url("../img/bg.png");
-}
 
 /* Show Grid */
 .showgrid {
