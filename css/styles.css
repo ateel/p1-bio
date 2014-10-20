@@ -1,18 +1,33 @@
 /* Your Website Styles */
+body {
+	background: #fff;
+}
+
 h1 {
 font-size: 2em;
 margin: 0.67em 5.3em;
+background: #73AFB6;
+color: #fff;
+padding: 35px;
 }
 
-
+a{
+	text-decoration: none;
+	padding: 25px;
+}
 
 img	{
 	width:100%;
 
 }
 
+#links {
+	margin: 0.67em 10.4em;
+	text-align: center;
+	background: #73AFB6;
+	color: #fff;
+	padding-bottom: 20px;
+}
+
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
